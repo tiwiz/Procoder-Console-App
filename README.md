@@ -30,8 +30,9 @@ Protocoder Console App is a desktop frontend for [Protocoder Android App]
 License
 ----
 
-MIT
+[MIT]
 
 
 [Protocoder Android App]:http://daringfireball.net/
 [GitHub]:https://github.com/victordiaz/protocoder
+[MIT]:https://github.com/tiwiz/Procoder-Console-App/blob/master/LICENSE
